@@ -64,6 +64,11 @@
 ![imatge](https://github.com/user-attachments/assets/16c2137a-77b8-4847-847c-c5e74cecab92)
 
 ## Continguts
+En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+
+Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a `Temes` a `Administració del Curs > Editar Curs > Format del Curs`
+
+Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B `Administració del Curs > Importar` (des del curs B)
 
 ![imatge](https://github.com/user-attachments/assets/5f2495ef-645a-43dd-9f60-9e10b1754f56)
 
