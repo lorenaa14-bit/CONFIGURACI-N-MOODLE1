@@ -52,6 +52,7 @@
 ![imatge](https://github.com/user-attachments/assets/e3e357dc-ab14-4ee8-babe-2042dc985c25)
 
 **7.** Assigna un professor i matricula alumnes al curs A.
+
 ![imatge](https://github.com/user-attachments/assets/1cc8582b-eeb5-44ea-8d66-c8f40f6aa523)
 
 **8.** Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
