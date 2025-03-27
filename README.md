@@ -81,9 +81,9 @@ Fes servir el moodle del puig com a referència. Han d’haver tant activitats m
 ## Qualificació
 En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a `Administració del Curs > Configuració de qualificacions`.
 
-![imatge](https://github.com/user-attachments/assets/c7871152-ef66-4a2d-bae5-f05be7862971)
-
 Crea una insignia i atorga-la a aquest alumne des de `Administració del Lloc > Insígnies`
+
+![imatge](https://github.com/user-attachments/assets/c7871152-ef66-4a2d-bae5-f05be7862971)
 
 ![imatge](https://github.com/user-attachments/assets/98025c49-2922-4bb6-8768-5d6307336cb0)
 
@@ -119,9 +119,9 @@ Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis per
 Crea 10 usuaris alumnes i un usuari professor posant-li dades.
 `Administració del Lloc > Usuaris > Crear Usuari / Pujar Usuaris` (de cop amb un arxiu csv, hi ha un model de csv al final del document).
 
- ![imatge](https://github.com/user-attachments/assets/9393f10c-2df0-4126-8d2e-2e3da4ed2e63)
-
  Assigna al professor a A i B. Matricula els alumnes a A mitjançant `Administració del Curs > Usuaris > Usuaris Matriculats` i connectat amb un alumne i matricula'l a B amb la contrassenya.
+ 
+ ![imatge](https://github.com/user-attachments/assets/9393f10c-2df0-4126-8d2e-2e3da4ed2e63)
 
 ![imatge](https://github.com/user-attachments/assets/2c1a9b79-19e9-4f95-97b7-422f24b6502e)
 
